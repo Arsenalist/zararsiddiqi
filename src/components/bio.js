@@ -54,12 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+        I'm a technologist living in Toronto and originally from Nageen Lake, Kashmir. I love the Raptors and Arsenal and have never figured out in which order. 
       </p>
     </div>
   )
