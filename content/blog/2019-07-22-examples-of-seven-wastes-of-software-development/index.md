@@ -5,7 +5,7 @@ date: '2019-07-22T09:00:00.997Z'
 categories: []
 ---
 
-[Image Credit: Unsplash.com](https://images.unsplash.com/photo-1561479884-c4108077063e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60)
+![Image Credit: Unsplash.com](https://images.unsplash.com/photo-1561479884-c4108077063e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60)
 
 The Toyota Production System's take on manufacturing processes changed the global automobile market and has been the subject of thorough analysis by [researchers](https://www.amazon.ca/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143) and [academics](https://www.amazon.ca/Study-Toyota-Production-System-Engineering/dp/0915299178). The [application of those principles to software development](https://www.amazon.ca/Implementing-Lean-Software-Development-Concept/dp/0321437381) included a focus on waste elimination which has always fascinated me.   
 
