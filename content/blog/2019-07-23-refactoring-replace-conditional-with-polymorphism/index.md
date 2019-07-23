@@ -5,6 +5,8 @@ date: '2019-07-23T09:00:00.997Z'
 categories: []
 ---
 
+![Image: Unsplash.com](https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
+
 Twenty years on Martin Fowler released the second edition of [Refactoring](https://www.amazon.ca/Refactoring-Improving-Design-Existing-Code/dp/0134757599/ref=dp_ob_title_bk). Packed with plenty of examples of code smells and what to do about them, the book is a must-read for professional programmers and enthusiasts. Of the [many refactorings](https://refactoring.com/catalog/) described the [Replace Conditional With Polymorphism](https://refactoring.com/catalog/replaceConditionalWithPolymorphism.html) remains one of my favourites. I will explain why.
 
 I've generally observed that object oriented programming is being bastardized. There is a strong tendency for programmers to slap procedural code inside a class and think they're writing object oriented code. I find that following the standard three-layer pattern of Controller/Service/Dao is being seen as "doing OOP", and all the other stuff of making sure you're using domain language, encapsulation, distinguishing Value Objects and Entities, etc. falls to the wayside.  
