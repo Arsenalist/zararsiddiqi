@@ -5,7 +5,9 @@ date: '2019-07-23T09:00:00.997Z'
 categories: []
 ---
 
-Teams usually have a list of features that they need to develop. Call them stories, tasks, experiments, product backlog items...it doesn't quite matter. Basically, code needs to be written for the software to do something. If you're using Scrum or a similar framework you go through this list in somewhat linear order. As you complete Feature A (and hopefully release it), along comes Feature B and you're onto the next thing.  
+![Image source: unsplash.com](https://images.unsplash.com/photo-1533873984035-25970ab07461?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
+
+Teams usually have a list of features that they need to develop. Call them stories, tasks, experiments, product backlog items...it doesn't quite matter. Basically, code needs to be written for the software to do something. If you're using Scrum or a similar framework you go through this list in somewhat linear order. As you complete Feature A along comes Feature B and you're onto the next thing.  
 
 What gets lost in the mix is time to inspect and adapt on the software increment that is Feature A. By "inspect and adapt" I'm referring to the refactoring of the technical artifacts that were created or modified so they are easier to change in the future. It is difficult to write quality code the first time around because your focus is to solve the business problem at hand and get the feature to a functional state. If we are not explicitly allocating time for this inspect and adapt cycle which improves code structure and behaviour, it results in poor quality and defect-ridden software. Test Driven Development when practiced ruthlessly can avoid this. In the absence of that we must explicitly create slack in our schedules to accommodate this care.
 
