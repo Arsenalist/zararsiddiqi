@@ -1,7 +1,7 @@
 ---
 title: Embedding quality in software through slack
 description: It is our professional responsibility to delivery quality software. Effectively using slack can get us there.
-date: '2019-07-23T09:00:00.997Z'
+date: '2019-07-25T09:00:00.997Z'
 categories: []
 ---
 
