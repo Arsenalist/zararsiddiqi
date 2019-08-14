@@ -5,6 +5,8 @@ date: '2019-08-14T09:00:00.997Z'
 categories: []
 ---
 
+![Image: Unsplash.com](https://images.unsplash.com/photo-1564517945244-d371c925640b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60)
+
 Dynamically typed languages such as JavaScript allow for implicit interface definitions based on object shape. If you have a `Country` object and a `State` object which both have a `capital` attribute, you don't need to explicitly declare the classes using `implements PlaceWithCapital`. You may define the following interface and treat any object containing a `capital` as a `PlaceWithCapital`.
 
 ```typescript
