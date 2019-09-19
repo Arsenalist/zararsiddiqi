@@ -1,3 +1,12 @@
+---
+title: "Contract Based Testing with JUnit5, Pact, WireMock and Spring"
+description: An example and walkthrough of contract-based testing using JUnit5, Pact, WireMock and Spring.
+date: '2019-09-19T09:00:00.997Z'
+categories: []
+---
+
+![Image: Unsplash.com](https://images.unsplash.com/photo-1531417666976-ed2bdbeb043b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
+
 Contact-based testing allows service consumers and service providers to stay in continuous sync so that any breaking changes are immediately visible.  In general, there are two types of contract-based testing. The first is where the consumer specifies what the producer service should do, and the other is where the producer defines how the consumer should expect to create it. This post is about consumer-based contract testing which is more relevant in organizations where delivery teams are dependent on internal (and often legacy) systems to consumer system-of-record services.
 
 [This introduction to consumer-based contract testing (CDC)](https://kreuzwerker.de/post/introduction-to-consumer-driven-contract-testing) is an excellent overview of the problem being addressed.
