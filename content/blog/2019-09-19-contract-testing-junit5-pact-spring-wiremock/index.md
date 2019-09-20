@@ -160,6 +160,9 @@ void testTemplate(Pact pact, Interaction interaction, HttpRequest request, PactV
 That's it, if you run the tests on the provider, you'll notice the following in the logs:
 
 ```
+  GET /furniture-types -> 200
+testTemplate called: furniture-service-producer, GET /furniture-types -> 200
+2019-09-19 12:10:41.850  INFO 82307 --- [tp1947681232-38] o.e.j.s.handler.ContextHandler.ROOT      : RequestHandlerClass from context returned com.github.tomakehurst.wiremock.http.StubRequestHandler. Normalized mapped under returned 'null'
     returns a response which
       has status code 200 (OK)
       has a matching body (OK)
