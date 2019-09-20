@@ -7,7 +7,9 @@ categories: []
 
 ![Image: Unsplash.com](https://images.unsplash.com/photo-1531417666976-ed2bdbeb043b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
 
-Contact-based testing allows service consumers and service providers to stay in continuous sync so that any breaking changes are immediately visible.  In general, there are two types of contract-based testing. The first is where the consumer specifies what the producer service should do, and the other is where the producer defines how the consumer should expect to create it. This post is about consumer-based contract testing which is more relevant in organizations where delivery teams are dependent on internal (and often legacy) systems to consumer system-of-record services.
+Contact-based testing allows service consumers and service providers to stay in continuous sync so that any breaking changes are immediately visible.  For example, when a team responsible for designing user experiences is dependent on the team providing data and services (i.e., the provider), with the latter having many consumers, it is difficult to keep track whether producer changes break consumer applications.
+
+In general, there are two types of contract-based testing. The first is where the consumer specifies what the producer service should do, and the other is where the producer defines how the consumer should expect to consumer it. This post is about consumer-based contract testing which is more relevant in organizations where delivery teams are dependent on internal (and often legacy) systems to consumer system-of-record services.
 
 [This introduction to consumer-based contract testing (CDC)](https://kreuzwerker.de/post/introduction-to-consumer-driven-contract-testing) is an excellent overview of the problem being addressed.
 
@@ -100,7 +102,7 @@ Conceptually, the service provider will want to do a few things:
 2. Execute the tests described in the contract against the provider application to ensure they pass (e.g., respond correctly to the specified requests)
 3. It may choose to do #2 by executing it against the real application, or against a mocked back-end, however it sees fit. 
 
-#3 is an important point of distinction as depending on the contract, the provider may choose the back-end at its own discretion. If the service is idempotent or doesn't have data implications, it may execute against a real service. If it is not, it may just run its own WireMock server and test against that. 
+Point #3 is an important point of distinction as depending on the contract, the provider may choose the back-end at its own discretion. If the service is idempotent or doesn't have data implications, it may execute against a real service. If it is not, it may just run its own WireMock server and test against that. 
 
 Either is fine, but either way it must startup some sort of HTTP or HTTPS server to validate the contract.
 
