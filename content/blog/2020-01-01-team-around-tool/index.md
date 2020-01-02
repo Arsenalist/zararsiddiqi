@@ -1,7 +1,7 @@
 ---
 title: "TeamAroundTool"
 description: The model of creating dedicated teams to manage enterprise assets used by internal users needs to be revisited.  
-date: '2020-01-02T09:00:00.997Z'
+date: '2020-01-01T09:00:00.997Z'
 categories: []
 ---
 
