@@ -1,5 +1,5 @@
 ---
-title: TheDigitalOrganization 
+title: TheDigitalOrg
 description: Creation of a digital organization is an interim step in the journey towards great customer experience.
 date: '2020-02-17T09:00:00.997Z'
 categories: []
