@@ -5,11 +5,13 @@ date: '2020-02-17T09:00:00.997Z'
 categories: []
 ---
 
+![Supporting structures.](/images/brown-concrete-building-154141.jpg)
+
 The digitization of customer experiences is a central focus for organizations. These efforts lead to the creation of new organizational constructs, roles, systems and ways of working which are centered around enhancing customer experience. Whether it be an insurance company digitizing their renewal process, a retailer providing contextual product recommendations or any other type of company trying to improve the customer experience, the organizational sub-structures created are quite common.  
 
 The most common one is the creation of a "Digital" unit within the organization tasked with solving these problems. For the record, I loathe the term digital because, much like the word socialism, it has been evacuated of all meaning leaving it unusable in conversation. This structure resembles something like this:
 
-![The digital organization as its own entity.](digital-org.png)
+![The digital organization as its own entity.](/images/digital-org.png)
 
 The products being offered by the organization reside in the business units responsible for P&L. These are the core money-making offerings of the organization whose distribution channels have remain largely the same for years. These units have products and owners of those products that are measured by P&L metrics. Without them there is no business.
 
@@ -23,7 +25,7 @@ For example, consider the case when customer research in a telecommunication org
 
 One way to tackle this problem is to embed the digital component within the product:
 
-![Digital capabilities embedded in core product groups.](embedded-digital-org.png)
+![Digital capabilities embedded in core product groups.](/images/embedded-digital-org.png)
 
 This structure is more true to the principle of locality as product units have digital components embedded in them thus simplifying communication.  Decision velocity related to products may be higher as the communication channels are simplified enabling responsiveness to customer needs. At the same time, proliferation of this pattern can cause silos as digital transformations need to consider the overall customer journey, not the interactions with one specific product. It can be argued that this pattern would take us backwards and encourage empire building through products while taking away from the customer-centric approach that design thinking encourages.
 
@@ -33,7 +35,7 @@ It depends on what the product is and the size of the organization. In a smaller
 
 It's easy to say that teams should be autonomous in their decision-making but in complex organizations where knowledge is fragmented and not easily shared, this can be risky. The [alignment/autonomy model](https://firstdoit.com/spotify-engineering-culture-lessons-on-autonomy-and-alignment-e86abe5ebca7) is a good way to think about this problem and the high alignment/high autonomy is a prerequisite for any initiative where this product ownership duality is present.
 
-![Alignment and autonomy](autonomy-alignment.png)
+![Alignment and autonomy](/images/autonomy-alignment.png)
 
 In the above model the complexity arises when the response to the "Figure out how!" in the top right requires change that we haven't yet anticipated.  This is an inflection point which presents an opportunity to inspect and adapt the structures we operate in. A learning organization will deal with these moments and make the necessary changes to the way it's organized. Those that don't suffer from [learning disabilities](https://www.peterkang.com/the-seven-learning-disabilities-from-the-fifth-discipline/) and will try to force the problem into existing structures and will compromise on customer experience.
 
