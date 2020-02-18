@@ -7,9 +7,9 @@ categories: []
 
 ![Supporting structures.](/images/brown-concrete-building-154141.jpg)
 
-The digitization of customer experiences is a central focus for organizations. These efforts lead to the creation of new organizational constructs, roles, systems and ways of working which are centered around enhancing customer experience. Whether it be an insurance company digitizing their renewal process, a retailer providing contextual product recommendations or any other type of company trying to improve the customer experience, the organizational sub-structures created are quite common.  
+The digitization of customer experiences is a central focus for organizations. These efforts lead to the creation of new organizational constructs, roles, systems and ways of working which are centered around enhancing customer experience. Whether it be an insurance company digitizing their renewal process or a retailer providing contextual product recommendations, the organizational sub-structures created are quite common.  
 
-The most common one is the creation of a "Digital" unit within the organization tasked with solving these problems. For the record, I loathe the term digital because, much like the word socialism, it has been evacuated of all meaning leaving it unusable in conversation. This structure resembles something like this:
+The most common one is the creation of a "digital" unit within the organization tasked with solving these problems. The term digital is ambiguous and misleading (what isn't digital these days?) but for the sake of discussion, it's referring to an organizational entity responsible for creating internet-enabled channels for their customers (as opposed to "analog" ones such as in-person transactions). This structure resembles something like this:
 
 ![The digital organization as its own entity.](/images/digital-org.png)
 
