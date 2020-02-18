@@ -44,4 +44,4 @@ In the above model the complexity arises when the response to the "Figure out ho
 
 There is no textbook way to organize yourself. I see this as a continuum of where the organization is in its customer experience journey. Early on any model which puts the customer first is better than developing products in silos. Any effort to do any customer research using design thinking techniques is valuable. As products mature and organizations want to take the next step, restructuring to mesh the people developing the experience and the ones designing the product is ideal. 
 
-The digital organization is a step, not a permanent fixture.
+The digital organization is a temporary construct, not a permanent fixture.
