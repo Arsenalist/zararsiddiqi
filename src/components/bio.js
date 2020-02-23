@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        I'm a technologist living in Toronto and originally from Nageen Lake, Kashmir. I love the Raptors and Arsenal and have never figured out in which order. 
+        I'm a technologist living in Toronto and originally from Kashmir. Email: zarars@gmail.com.
       </p>
     </div>
   )

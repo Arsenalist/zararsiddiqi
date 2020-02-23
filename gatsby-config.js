@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `zararsiddiqi.com`,
     author: `Zarar Siddiqi`,
-    description: `How could I not regsiter my own domain name?`,
+    description: `How could I not register my own domain name?`,
     siteUrl: `https://www.zararsiddiqi.com/`,
     social: {
       twitter: `zararsiddiqi`,
