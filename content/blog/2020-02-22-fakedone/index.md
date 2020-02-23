@@ -1,6 +1,6 @@
 ---
 title: FakeDone
-description: If it ain't in production, it ain't not done.
+description: If it's not in production it's not done.
 date: '2020-02-22T09:00:00.997Z'
 categories: []
 ---
