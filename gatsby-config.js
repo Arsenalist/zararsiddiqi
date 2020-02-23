@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `zararsiddiqi.com`,
     author: `Zarar Siddiqi`,
-    description: `How could I not regsiter my own domain name?`,
+    description: `How could I not register my own domain name?`,
     siteUrl: `https://www.zararsiddiqi.com/`,
     social: {
       twitter: `zararsiddiqi`,
@@ -68,12 +68,6 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
