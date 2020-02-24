@@ -33,6 +33,9 @@ const Bio = () => {
   const { author, social } = data.site.siteMetadata
   return (
     <div>
+      <hr/>
+    <div className="row">
+    <div className="col-md-1">
       <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author}
@@ -45,9 +48,14 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
+      </div>
+      <div className="col-md">
       <p>
         I'm a technologist living in Toronto and originally from Nageen Lake, Kashmir. I love the Raptors and Arsenal and have never figured out in which order. 
       </p>
+      </div>
+    </div>
+    <hr/>
     </div>
   )
 }
