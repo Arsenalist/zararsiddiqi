@@ -38,7 +38,9 @@ All this in mathematical terms can be boiled down to two well-established statem
 
 The first statement is [Little's Law](https://en.wikipedia.org/wiki/Little%27s_law) and the second is the [Allen-Cuneen Approximation of Queue Length](https://books.google.ca/books?id=PMMUbHvr-7sC&pg=PA341&lpg=PA341&dq=allen-cunneen%20queue&source=bl&ots=APBy1yQEHT&sig=ACfU3U33crWLWSO52VhsArHxtZRjM77lLQ&hl=en&sa=X&ved=2ahUKEwjwtt258-vnAhV1lXIEHapkDmUQ6AEwB3oECAoQAQ#v=onepage&q=allen-cunneen%20queue&f=false).
 
-Thus, it is imperative that we keep queue sizes low if we want to complete work fast, and the way to keep queue sizes low is to reduce utilization. Some of the above has been a poor man's explanation of Donald Reinertsen's [work](https://www.amazon.ca/Principles-Product-Development-Flow-Generation/dp/1935401009) which anyone who is managing people or processes must read. An extremely condensed summary of it appears in an [HBR article](https://hbr.org/2012/05/six-myths-of-product-development).
+Thus, it is imperative that we keep queue sizes low if we want to complete work fast, and the way to keep queue sizes low is to reduce utilization. 
+
+Some of the above has been a poor man's explanation of Donald Reinertsen's [work](https://www.amazon.ca/Principles-Product-Development-Flow-Generation/dp/1935401009) which anyone who is managing people or processes must read. An extremely condensed summary of it appears in an [HBR article](https://hbr.org/2012/05/six-myths-of-product-development).
 
 Another critical aspect to note is that the time works take to complete is a *lagging* indicator of the rate at which work gets done because we can't measure that until the work is done. The size of queues is a *leading* indicator meaning we can optimize for the work before it starts. The main way we can do this is to make sure there is slack in our system to handle unexpected, heterogenous, highly variable, and cognitive-skill requiring collaborative activities.
 
