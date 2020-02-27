@@ -65,4 +65,4 @@ I struggle with `BusyBusyBusy` just like anyone else. I also try to acknowledge 
 - What is the bad news that I am scared of giving someone and what am I doing about it?
 - What is an activity that has become so routine for me that I don't even question its value?
 
-These are some of the questions that help me prioritize and unschedule work so I'm not `BusyBusyBusy`. For me, it's a start.
+These are some of the questions that help me prioritize and unschedule work. For me, it's a start.
