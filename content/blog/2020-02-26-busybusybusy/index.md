@@ -33,8 +33,8 @@ The effect of emergency work (uh oh, we forgot about this regulatory filing) on 
 
 All this in mathematical terms can be boiled down to two well-established statements which I have modified to suit the context of this post:
 
-1. `Time to Complete Work = Queue Size / Work Completed`
-2. `As utilization increases, queue sizes increase`
+1. *Time to Complete Work = Queue Size / Work Completed*
+2. *As utilization increases, queue sizes increase*
 
 The first statement is [Little's Law](https://en.wikipedia.org/wiki/Little%27s_law) and the second is the [Allen-Cuneen Approximation of Queue Length](https://books.google.ca/books?id=PMMUbHvr-7sC&pg=PA341&lpg=PA341&dq=allen-cunneen%20queue&source=bl&ots=APBy1yQEHT&sig=ACfU3U33crWLWSO52VhsArHxtZRjM77lLQ&hl=en&sa=X&ved=2ahUKEwjwtt258-vnAhV1lXIEHapkDmUQ6AEwB3oECAoQAQ#v=onepage&q=allen-cunneen%20queue&f=false).
 
