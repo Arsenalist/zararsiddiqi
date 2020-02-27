@@ -5,7 +5,7 @@ date: '2020-02-22T09:00:00.997Z'
 categories: []
 ---
 
-<div style="text-align: center"><img src="/images/vince-carter.jpg" alt="Vince Carter - It's Ove!"/></div>
+<div style="text-align: center"><img src="/images/vince-carter.jpg" alt="Vince Carter - It's Over!"/></div>
 
 Accomplishments feel good. Ticking something off a to-do list and seeing it ~~struck out~~ is a feeling of progress. In the huge heap of things that need to be done, seeing one of them disappear may just provide the momentum to tackle the next one. At times you encounter a situation where you badly want to tick something off that list and you've completed maybe 80% of it, or even less. Yet that doesn't prevent you from checking it off for whatever reason - maybe the next item is more exciting, maybe the remaining 20% is someone else's job. All you need is that thing to get out of your way.
 
