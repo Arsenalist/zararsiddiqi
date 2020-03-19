@@ -11,7 +11,7 @@ I've always been fortunate to have worked with people who had more experience an
 
 Currently I'm colleagues with [Csaba Bereczki](https://www.linkedin.com/in/cbereczki/), [Gino Marckx](https://www.linkedin.com/in/ginomarckx/) (who I worked with at EPAM as well) and [Jeff Morgan](https://www.linkedin.com/in/jeffmorgan5/), some of the best coaches in the industry. All of us share a passion for Continuous Delivery. 
 
-To make the most of this opportunity and make some memories we started a podcast a few weeks back. It is short, packed with content, and unrehearsed. We aim to keep it between 15-20 minutes.  Here's a playlist of the episodes - you can listen to the episodes [here](https://continuousdeliverypodcast.buzzsprout.com/) or you can download the podcast from wherever you get your podcasts. Here are links to some directories:
+To make the most of this opportunity and make some memories we started a podcast a few weeks back. It is short, packed with content, and unrehearsed. We aim to keep it between 15-20 minutes.  You can listen to the episodes [here](https://continuousdeliverypodcast.buzzsprout.com/) or you can download the podcast from wherever you get your podcasts. Here are links to some directories:
  
 - [Apple Podcasts](https://podcasts.apple.com/ca/podcast/the-continuous-delivery-podcast/id1499579910)
 - [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84ODM4NTgucnNz&ved=0CAAQ4aUDahcKEwiQgaCp_6boAhUAAAAAHQAAAAAQAQ&hl=en-CA)
