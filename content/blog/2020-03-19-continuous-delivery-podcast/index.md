@@ -1,6 +1,6 @@
 ---
 title: The Continuous Delivery Podcast
-description: Continuous delivering business value to customers.
+description: A podcast focused on Continuous Delivery.
 date: '2020-03-19T09:00:00.997Z'
 categories: []
 ---
