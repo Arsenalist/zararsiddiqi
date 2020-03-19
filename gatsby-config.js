@@ -69,6 +69,12 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
+      resolve: 'gatsby-plugin-load-script',
+      options: {
+        src: 'https://www.buzzsprout.com/883858.js?container_id=buzzsprout-large-player-883858&player=large'
+      }
+    },
+    {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
