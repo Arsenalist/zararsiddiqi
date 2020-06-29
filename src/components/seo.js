@@ -34,6 +34,24 @@ function SEO({ description, lang, meta, title }) {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
+      
+      link={[
+
+        {
+          href: `/styles/site.css`,
+          rel: `stylesheet`
+        }
+      ]}
+      script={[
+        {
+          src: "https://code.jquery.com/jquery-3.2.1.slim.min.js",
+          integrity: "sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN",
+          crossorigin: "anonymous"
+        },      
+        { 
+        type: 'text/javascript', 
+        src: 'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js' 
+      }]} 
       meta={[
         {
           name: `description`,

@@ -9,8 +9,6 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
-import { rhythm } from "../utils/typography"
-
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
@@ -34,17 +32,14 @@ const Bio = () => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-      }}
-    >
+    <div>
+      <hr/>
+    <div className="row">
+    <div className="col-md-1">
       <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author}
         style={{
-          marginRight: rhythm(1 / 2),
           marginBottom: 0,
           minWidth: 50,
           borderRadius: `100%`,
@@ -53,9 +48,14 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
+      </div>
+      <div className="col-md">
       <p>
         I'm a technologist living in Toronto and originally from Kashmir. Email: zarars@gmail.com.
       </p>
+      </div>
+    </div>
+    <hr/>
     </div>
   )
 }
