@@ -1,6 +1,6 @@
 ---
 title: Women's Rights in Islam
-description: Creation of a digital organization is an interim step in the journey towards great customer experience.
+description: Islam holds women in equal regard as men.
 date: '2020-06-29T09:00:00.000Z'
 categories: ["islam", "women"]
 ---
