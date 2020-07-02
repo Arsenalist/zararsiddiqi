@@ -5,7 +5,7 @@ date: '2020-07-01T09:00:00.000Z'
 categories: ["agile", "metrics", "continuous delivery"]
 ---
 
-People will try their best to follow a framework, especially if it is prescribed by someone who is seen as an expert. Though the framework can itself by useful, religious compliance to the framework's metrics can distract from the goals that the framework is supposed to help with. 
+People will try their best to follow a framework, especially if it is prescribed by someone who is seen as an expert. Though the framework can itself be useful, religious compliance to the framework's metrics can distract from the goals that the framework is supposed to help with. 
 
 Velocity, throughput, cycle time and any other metric should be subject to this scrutiny. If the goal is to continuously deliver value to your customers then the evaluation of value must happen outside the framework's scope. The framework's metrics are at best a weak proxy to the value delivered. We may be following a particular process very well but the process may not generate the required outcomes. 
 
