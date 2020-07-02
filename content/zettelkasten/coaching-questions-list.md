@@ -1,3 +1,11 @@
+---
+title: List of Coaching Questions
+description: Coaching questions that came up on the fly.
+date: '2019-09-15T09:00:00.000Z'
+categories: ["coaching questions", "coaching"]
+---
+
+
 ##### “How are you complicity in creating the conditions that you say you don’t want?” - Jerry Collona
 
 I like this question because it forces you to look inwards rather than outwards on why something might be the way it is. 
@@ -48,6 +56,8 @@ At the beginning of a task it is often not a question of ability but a question 
 ##### What is keeping this relationship from forming?
 
 Humans have a built-in bias towards not making friends or forming new relationships. Avoiding an enemy is considered more important than making a friend. The cost of mistaking someone for a friend when they are an enemy is perceived to be much higher than mistaking someone for an enemy and them turning out to be a friend (source). Perhaps the recognition of this will help form the relationship.
+
+https://www.nytimes.com/2019/11/20/smarter-living/how-to-have-closer-friendships.html?auth=login-google&login=google
 
 ##### Do you want to be admired? 
 
