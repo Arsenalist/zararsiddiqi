@@ -1,5 +1,5 @@
 ---
-title: Minings for Side-Effects in Complex Adaptive Systems
+title: Mining for Side-Effects in Complex Adaptive Systems
 description: Pay as much attention to side-effects as intended effects.
 date: '2020-07-06T09:00:00.000Z'
 categories: ["dave snowden", "evolutionary biology", "exaptation", "complex adaptive systems"]
