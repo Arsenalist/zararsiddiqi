@@ -20,7 +20,8 @@ On first reading one can surmise this as guidance on how to structure videos to 
 
 Examining the correlation matrix we can see some self-fulfilling prophecies such as more views, likes and comments being highly correlated with being on the trending list. These can be safely ignored because it is extremely probable that these are high because these videos are already on the trending list, not what caused them to be there.
 
-!["YouTube Trending Viddeos Correlation Matrix, ammar-alyousfi.com"](/images/youtube-trending-videos-correlation-matrix.png)
+!["YouTube Trending Videos Correlation Matrix, ammar-alyousfi.com"](/images/youtube-trending-videos-correlation-matrix.png)
+YouTube Trending Videos Correlation Matrix, ammar-alyousfi.com
 
 So the real question here is should we treat this as guidance?
 
