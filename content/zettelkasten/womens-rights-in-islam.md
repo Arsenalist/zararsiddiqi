@@ -3,6 +3,7 @@ title: Women's Rights in Islam
 description: Islam holds women in equal regard as men.
 date: '2020-06-29T09:00:00.000Z'
 categories: ["islam", "women"]
+visibility: "hidden"
 ---
 
 The treatment of women in Islam as characterized by the "West" has been a source of great sadness for me. It is an unfortunate consequence of a multitude of factors including the lack of differentiation between cultural practices of a region and Islamic beliefs. This misunderstanding is amplified by media and political structures which value simple explanations to complex phenomenon by leveraging ingrained biases. Women have been mistreated and viewed as second-class citizens throughout history. Voting rights, employment opportunities, freedom of movement and genital mutilation are only some of the categories where women have suffered. They have been a step removed from slavery for a large part of our history.

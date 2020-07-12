@@ -47,7 +47,10 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: {fileAbsolutePath: {regex: "/(blog)/"  }}
+      filter: {
+        frontmatter: { visibility: { ne: "hidden" } }
+
+      }
       sort: { 
       fields: [frontmatter___date], order: DESC }) {
       edges {
