@@ -5,7 +5,7 @@ date: '2020-07-03T09:00:00.000Z'
 categories: ["serverless", "architecture", "user experience"]
 ---
 
-If software development is about trade-offs then one of the ones made by a asynchronous serverless architecture is that between architectural complexity and user experience. The user wait time when invoking heavy operations is reduced and architectural complexity is increased. Instead of a synchronous call where request/response across all layers are queued up and waited for, we store the information on disk and process it later. The user interface polls the system to return processed results.
+If software development is about trade-offs then one of the ones made by an asynchronous serverless architecture is that between architectural complexity and user experience. The user wait time when invoking heavy operations is reduced and architectural complexity is increased. Instead of a synchronous call where request/response across all layers are queued up and waited for, we store the information on disk and process it later. The user interface polls the system to return processed results.
 
 It can also be debated that architectural complexity is increased because we have split our processing in smaller "lambda" functions instead of a monolith which contains all the compute logic. On the other hand monoliths can make version control easier as dependencies are reduced. Either way you look at it this can be distilled down to whether we write first and process later, or process while keeping the user waiting.
 
