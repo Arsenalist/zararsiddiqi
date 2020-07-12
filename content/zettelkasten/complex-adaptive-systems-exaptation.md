@@ -1,5 +1,5 @@
 ---
-title: Minings for Side-Effects in Complex Adaptive Systems
+title: Mining for Side-Effects in Complex Adaptive Systems
 description: Pay as much attention to side-effects as intended effects.
 date: '2020-07-06T09:00:00.000Z'
 categories: ["dave snowden", "evolutionary biology", "exaptation", "complex adaptive systems"]
@@ -9,7 +9,7 @@ A complex adaptive system (CAS) is a system in which a perfect understanding of 
 
 In such a system we cannot confidently make statements such as *If we do A, then B will happen*. We can only hypothesize about how doing A will impact the evolution of the larger system. This is because actions have unintended side-effects that go unmonitored. B may very well happen if we do A but it will not be the only thing that happens. C will happen as well. C can reduce the efficacy of B, amplify it, or create other unforeseen effects.
 
-We are wired with strong confirmation bias and unless we acknowledge the wider impact of our actions we will only see B happen because B is what we're looking for (e.g., the Gorilla experiment, radiologist experiment). Those experiments are universal in their nature and underplaying their findings by suggesting that it doesn't apply to you or your situation is ignorance bordering on neglect.
+We are wired with strong confirmation bias and unless we acknowledge the wider impact of our actions we will only see B happen because B is what we're looking for (e.g., the Gorilla experiment, radiologist experiment). Those experiments are universal in their nature and underplaying their findings by suggesting that it doesn't apply to our context is ignorance bordering on neglect.
 
 Awareness of this phenomenon is key in any change initiative as it is not intuitive. We are led to believe that if we follow certain practices and make decisions rooted in agreed upon management principles then we are able to control outcomes. This thinking is wide of the mark for two reasons: it does not take into explicit account the unintended implications of our actions, and it is amplified by our confirmation bias.
 
