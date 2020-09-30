@@ -21,6 +21,10 @@ There are two compounding factors which make this especially harmful.
 
 *Repackaging*: Having talk shows disguise as news programs is a laughably easy way of repackaging lies without risking the penalty of being called out. Twenty-four hour news channels can have talk shows with millions of viewers who tune in to get some semblance of valid information. I provide the "some semblance" qualifier only because the audience have been conditioned enough and are polarized enough that they no longer can think on their own, and only tune in to reinforce whatever they already believe. As there is no material differentiation between talk shows and news programs for the audience, the convenient repackaging gives the broadcaster an out to say anything and hide behind the argument, "it's not news, it's a talk show".
 
+!["US District Court, Southern District of New York: Case 1:19-cv-11161-MKV   Document 39   Filed 09/24/20   Page 12 of 19"](/images/news-court-ruling.png)
+US District Court, Southern District of New York: Case 1:19-cv-11161-MKV   Document 39   Filed 09/24/20  Page 12 of 19
+
+
 --
 
 - https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2019cv11161/527808/39/
