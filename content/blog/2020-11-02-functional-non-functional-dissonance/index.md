@@ -1,5 +1,5 @@
 ---
-title: Dissonance of using functional concepts in non-functional stacks
+title: Dissonance of Using Functional Concepts in Non-functional Stacks
 description: It doesn't have to be a natural fit to be considered progression.
 date: '2020-11-02T09:00:00.007Z'
 categories: []
