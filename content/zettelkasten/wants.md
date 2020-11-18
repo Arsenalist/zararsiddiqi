@@ -1,1 +1,0 @@
-If you want to win over a man completely it is very simple. Praise the decisions he's made so the pang of any lingering regret is eased. Seeking validation. 
