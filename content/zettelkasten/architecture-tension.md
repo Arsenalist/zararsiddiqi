@@ -1,7 +1,7 @@
 ---
 title: Architectural Tension
 description: Three principles to guide organizing assets.
-date: '2020-11-17T09:00:00.000Z'
+date: '2020-11-18T09:00:00.000Z'
 categories: ["architecture", "design"]
 ---
 
