@@ -5,7 +5,7 @@ date: '2021-01-04T09:00:00.000Z'
 categories: ["podcast questions", "continuous delivery podcast", "scrum", "timeboxing"]
 ---
 
-Podcast listener, Vitalii, asks how to use Scrum when the primary responsibility of the team is software maintenance and fixing complicated bugs which are hard to reproduce and take a long time to fix? How do we measure value when all we do is fix bugs?
+A podcast listener asked how to use Scrum when the primary responsibility of the team is software maintenance and fixing complicated bugs which are hard to reproduce and take a long time to fix. How do we measure value when all we do is fix bugs?
 
 Below is the podcast and my response to the question.
 
