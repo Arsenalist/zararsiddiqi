@@ -7,10 +7,7 @@ categories: ["podcast questions", "continuous delivery podcast", "scrum", "timeb
 
 A podcast listener asked how to use Scrum when the primary responsibility of the team is software maintenance and fixing complicated bugs which are hard to reproduce and take a long time to fix. How do we measure value when all we do is fix bugs?
 
-Below is the podcast and my response to the question.
-
-<div id="buzzsprout-player-7300141"></div>
-<script src="https://www.buzzsprout.com/883858/7300141-ep-36-listener-q-is-scrum-suitable-for-complicated-bug-fixes.js?container_id=buzzsprout-player-7300141&player=small" type="text/javascript" charset="utf-8"></script>
+[Here's the podcast](https://www.buzzsprout.com/883858/7300141) and my response to the question.
 
 Sprints are a good mechanism to get a team that is used to delivering in long cycles (i.e., waterfall) to start thinking about how to deliver in shorter cycles. The timebox forces you to release code and think in small increments. It forces you reflect on what you delivered and how you delivered in much shorter cycles than what people were used to before.
 
