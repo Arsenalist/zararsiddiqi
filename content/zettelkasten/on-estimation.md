@@ -1,7 +1,7 @@
 ---
 title: On Estimation
 description: Estimation has three goals. One of them is realistic.
-date: '2021-02-29T09:00:00.000Z'
+date: '2021-02-26T09:00:01.000Z'
 categories: ["agile", "estimates"]
 ---
 

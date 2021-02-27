@@ -1,7 +1,7 @@
 ---
 title: On Planning in Kanban
 description: Prefer flow over commitment.
-date: '2021-02-29T09:00:00.000Z'
+date: '2021-02-26T09:00:00.000Z'
 categories: ["agile", "kanban", "planning", "scrum"]
 ---
 
