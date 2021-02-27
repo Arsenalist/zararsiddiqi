@@ -7,7 +7,7 @@ categories: ["agile", "kanban", "planning", "scrum"]
 
 The "backlog refinement" time is the planning time to see what we should be working on next. This is like sprint planning except there is no idea of commitment and it's just planning what's ahead without dealing with when things should be done because we acknowledge that things will take what they take - we try to be as fast as possible and seek to continuously improve.
 
-To plan effectively in Kanban one has to make good use of the this time. You can useit to:  
+To plan effectively in Kanban one has to make good use of the this time. You can use it to:  
 
 1. Plan out what the next month might look like at a high-level
 2. If the refined column is running thin, talk about some upcoming stories so there's enough in there that we're maintaining a continuous flow of work
