@@ -38,7 +38,7 @@ This is certainly a walled garden situation because you're reliant on the OS, bu
 
 Looking at the two main mobile operating systems, Android and iOS, I have to wonder which of these is more likely to implement such a mechanism. Their business models can provide some clues. Google's business model is built on advertising so it is not in their interest to restrict such information sharing as it's a direct hit to their top line. Apple isn't in the advertising business, they're more in the hardware business and more likely to care about this. Not saying they will, but they're more likely than Google.
 
-A similar idea was floated by [otterley on Hacker News](https://news.ycombinator.com/item?id=26286194):
+A similar idea was floated by [otterley on Hacker News](https://news.ycombinator.com/item?id=26286561):
 
 > Recently Apple added a feature to iOS that allows you only to allow selected photos to be accessible by an app. This allows the user to respond positively to an access request, but allow the app to see only a subset (or zero) actual photos.
 
