@@ -40,8 +40,8 @@ Looking at the two main mobile operating systems, Android and iOS, I have to won
 
 A similar idea was floated by [otterley on Hacker News](https://news.ycombinator.com/item?id=26286561):
 
-> Recently Apple added a feature to iOS that allows you only to allow selected photos to be accessible by an app. This allows the user to respond positively to an access request, but allow the app to see only a subset (or zero) actual photos.
+>Recently Apple added a feature to iOS that allows you only to allow selected photos to be accessible by an app. This allows the user to respond positively to an access request, but allow the app to see only a subset (or zero) actual photos.
 
->It would be a very useful feature for Apple to do the same for contacts: the app would think it's getting access to your contacts, but would only actually receive a subset of them, and be none the wiser. This would be a tremendous boon for privacy.
+> It would be a very useful feature for Apple to do the same for contacts: the app would think it's getting access to your contacts, but would only actually receive a subset of them, and be none the wiser. This would be a tremendous boon for privacy.
 
 I would sign up for this.
