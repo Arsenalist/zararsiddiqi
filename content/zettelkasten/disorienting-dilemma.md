@@ -3,7 +3,6 @@ title: Dissorienting Dilemma
 description: To learn requires a change in perspective.
 date: '2020-06-29T09:00:00.000Z'
 categories: ["mindset"]
-visibility: "hidden"
 ---
 
 The dissorienting dilemma is caused when you have an experience that fundamentally does not align with your view of the world and forces you to reconsider what you had assumed tacitly to be true. It is the shifting of a core assumption or belief that forces you to alter your perception because without doing so the world does not make sense.
