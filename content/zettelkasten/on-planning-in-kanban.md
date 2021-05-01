@@ -18,7 +18,7 @@ I have no problem against Scrum. We're just very poor at meeting commitment and 
 
 So a Kanbanish system helps with that by forcing you plan "just in time" (hence the WIP limit on the refined column). You can do this in Scrum too, but here it's more explicit. Scrum emphasizes commitments, Kanban flow.
 
-### Is Planning is the what, where do we plan the how? Is it when the developer picks up the story?
+### If planning is the what, where do we plan the how? Is it when the developer picks up the story?
 
 It sounds like you're talking about how you might want to break up the work related to the story that appeared in the "Refined" column because you want to work in small pieces and perhaps split work. 
 
