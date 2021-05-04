@@ -1,7 +1,7 @@
 ---
 title: Avoiding Duplication in State Management
 description: State management is creepy and creeps up on you.
-date: '2020-05-04T09:00:00.000Z'
+date: '2021-05-04T09:00:00.000Z'
 categories: ["testing", "state management", "DRY"]
 ---
 State management is where small bugs grow up to become evil villains, rendering applications a nightmare to maintain. This is especially true when writing JavaScript to maintain UI state. It is tempting to create instance variables which maintain state which are then queried in template logic. For example:
