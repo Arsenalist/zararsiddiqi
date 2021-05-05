@@ -1,7 +1,7 @@
 ---
 title: The Backend and Frontend Story Divide
 description: Beware the perils of what for a second looks like a good idea.
-date: '2021-03-26T09:00:00.000Z'
+date: '2021-05-05T09:00:00.000Z'
 categories: ["agile", "user stories", "collaboration"]
 ---
 
