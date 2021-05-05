@@ -20,10 +20,10 @@ class MyComponent {
 ```
 _my-component.html_
 ```
-Language being used is {language}
+Language being used is {{ language }}
 ```
 
-This type of code is common and should be avoided as it violates the Don't Repeat Yourself (DRY) principle. It's subtle but the violation comes from having to maintain the value of the language in two places: the store and the component.
+This type of code is common and should be avoided as it violates the [Don't Repeat Yourself (DRY) principle](https://wiki.c2.com/?XpSimplicityRules). It's subtle but the violation comes from having to maintain the value of the language in two places: the store and the component.
 
 The above makes for wonky tests as well, because we end up doing something like this:
 
@@ -64,7 +64,7 @@ With this approach we no longer need to maintain component state and our templat
 
 _my-component.html_
 ```
-Language being used is {getLanguage()}
+Language being used is {{ getLanguage() }}
 ```
 
 The side effect of interacting with the store still exists in  `changeLanguage()` and `getLanguage()` but that is easier to test (thus easier to maintain) than duplicating the value. Having a single source of truth for your state is critical.
