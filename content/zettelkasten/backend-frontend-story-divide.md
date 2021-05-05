@@ -47,4 +47,6 @@ Some things to try if you're struggling organizing the work:
 - Iterate over a user story with each story adding to the fidelity of the solution, not components of the solution (see image below)
 - Use the [Hamburger Method of story splitting](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) to create slices, not chunking out work into "stories" that don't enable customer feedback
 
+!["Henrik Kniberg - Iterations"](/images/kniberg-car-vs-bike-incremental-iterative.png)
+
 Thank you to Gino Marckx and Stacey Vetzal for their review of this post.
