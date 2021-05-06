@@ -14,7 +14,8 @@ class AboutPage extends React.Component {
         <SEO title="About" />
         <h1>About Me</h1>
         <p>
-          I like to think I'm useful.
+          How could I not register my own domain name?
+
         </p>
       </Layout>
     )
