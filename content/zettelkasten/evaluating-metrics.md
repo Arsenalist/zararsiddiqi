@@ -2,10 +2,8 @@
 date: '2021-03-31T09:00:00.000Z'
 title: Evaluating Metrics
 description: How do we know if a metric is any good?
-categories: ["metrics"]
+categories: ["metrics", "agile", "podcast"]
 ---
-# Evaluating Metrics
-#agile #metrics #podcast
 
 Good [Continous Delivery podcast](https://continuousdeliverypodcast.buzzsprout.com/883858/8257974-ep-45-evaluating-metrics) where they talked about how to evaluate metrics and their suitability to the situation.
 
