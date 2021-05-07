@@ -37,6 +37,9 @@ The principle of locality is well described in [The Unicorn Project](https://www
 
 You can argue that kind of splits can be valuable at a higher level when a requirement must done by teams of orthogonal skill sets. For example, a machine learning layer where data scientists want to work on a recommendation engine, while a web developer is responsible for laying out the products on the website. Those are two different teams working on a larger problem, not a split within a team. It is the in-team split that is especially harmful. Even in these situations it is valuable for a story to tie in both pieces of work as stories are about getting a customer perspective, not a vehicle for organizing work within a team - we can use tasks for that and make those tasks small and independently deployable.
 
+## What if the work only involves layer?
+If the feature being developed is limited to one layer, for example a content update or a change to an algorithm, then the work by it's very nature spans only the "frontend" or the "backend". This post is not a critique on those types of stories, as in those cases the customer gets value on completion of the story. The fact that the work involves a single layer is coincidental.
+
 ## Some actionable advice
 
 Some things to try if you're struggling organizing the work:
