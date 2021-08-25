@@ -1,16 +1,16 @@
 ---
 date: '2021-08-25T09:00:00.000Z'
 title: Using Gherkin for Acceptance Criteria
-description: The Given/When/Then has power beyond just writing  tests.
+description: Given/When/Then has power beyond just writing  tests.
 categories: ["acceptance criteria", "user stories", "testing"]
 ---
 
-I've had a mixed experience working with Gherkin and Cucumber, and the culprit has usually been the step definitions. Consider the following scenario:
+I've had a mixed experience working with [Gherkin](https://cucumber.io/docs/gherkin/reference/) and Cucumber, and the culprit has usually been the step definitions. Consider the following scenario:
 
 ```
 GIVEN the client is logged in
 WHEN the client accesses their portfolio
-THEN the client sees their balance 
+THEN the client sees their balance
 AND the client sees an option to transfer funds
 ```
 
