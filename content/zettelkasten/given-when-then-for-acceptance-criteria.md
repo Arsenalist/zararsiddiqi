@@ -81,4 +81,4 @@ AND set the status to 'Created'
 
 We can see that we can layer in all kinds of complex business rules to this workflow without muddying the requirements. The power of the `GIVEN` clause allows us to set preconditions on the requirement so that the team knows exactly what case we are dealing with. If we are able to write our requirements using this syntax, it will also help us keep our user stories small because splitting stories would just be a matter of splitting out the acceptance criteria.
 
-Even though developers may not use Gherkin/Cucumber to write their tests, having the requirements in this format makes it clear to the developers what tests they should write.
+Even though developers may not use Gherkin/Cucumber to write their tests, having the requirements in this format makes it clear what the minimal set of tests they should write.
