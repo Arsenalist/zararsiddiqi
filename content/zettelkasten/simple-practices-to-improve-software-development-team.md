@@ -63,3 +63,6 @@ Integration tests are a subset of unit tests. Unit testing should account for up
 
 ### Avoid initializing Spring Context in tests
 It is tempting to initialize Spring context to setup your test. This is usually slow and not needed as you can use Mockito and mock out the dependencies of your classes without incurring the performance overhead of spring in your tests. For example, you don't have to rely on Spring to inject a  `@Autowired` variable. You can simply mock it using `Mockito.mock()`.
+
+### Unfinished work behind feature toggles (remember to take them out)
+Feature Toggles are an excellent mechanism for deploying more frequently and reducing the risk of having multiple branches hanging around. They allow you to release in small batches, reducing the overall risk of the work. However, as more functionality is completed, they become redundant and need to be deleted. If they're not taken out, they become a form of technical debt.
