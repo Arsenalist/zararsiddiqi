@@ -5,7 +5,10 @@ date: '2022-04-21T09:00:00.000Z'
 categories: ["story mapping", "agile", "prioritization"]
 ---
 
-Story Mapping can be a valuable planning exercise which can help prioritize work while centering the conversation on the customer. It can help a team align on an MVP, create releases, identify dependencies, prioritize stories, and generally lean out the product. It does this by bringing about a multitude of opinions and ideas in how to deliver value to the customer, and having a healthy discussion around the possibilities.
+!["User Story Map"](/images/user-story-map.png)
+_Source: [beliminal.com](https://www.beliminal.com/quickstart-guide-to-user-story-maps/)_
+
+[Story Mapping](https://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf) can be a valuable planning exercise which can help prioritize work while centering the conversation on the customer. It can help a team align on an MVP, create releases, identify dependencies, prioritize stories, and generally lean out the product. It does this by bringing about a multitude of opinions and ideas in how to deliver value to the customer, and having a healthy discussion around the possibilities.
 
 Having seen many story maps in the wild, I've compiled a list of 5 anti-patterns to avoid when using story maps. 
 
